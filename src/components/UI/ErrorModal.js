@@ -15,7 +15,7 @@ function ErrorModal(props) {
             <p>{props.message}</p>
         </div>
         <footer className={classes.actions}>
-            <Button onClick={props.onConfirm} >Okay</Button>
+            <Button onClick={props.onConfirm} >Okayy</Button>
         </footer>
     </Card>
     </div>
